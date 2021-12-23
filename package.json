@@ -49,5 +49,18 @@
   },
   "scripts": {
     "build": "webpack --mode production"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustincode/custom-ckeditor-build.git"
+  },
+  "keywords": [
+    "@dustin/editor",
+    "ckeditor",
+    "Javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/dustincode/custom-ckeditor-build/issues"
+  },
+  "homepage": "https://github.com/dustincode/custom-ckeditor-build#readme"
 }
