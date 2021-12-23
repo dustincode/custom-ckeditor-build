@@ -1,8 +1,8 @@
 {
-  "name": "@dustin/ckeditor5-custom-build",
+  "name": "@dustincode/ckeditor5-custom-build",
   "author": "dustincode <ntd.dustin.nguyen@gmail.com>",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "./build/ckeditor.js",
   "devDependencies": {
